@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Robotique/Robotica/Jay
-- 🌱 I’m currently studying Software Engineering
+- 🌱 I’m currently studying Software Engineering and want to keep learning more in the realm of programming.
 - 💞️ I’m looking to collaborate on projects utilising the API from GGG to create 3rd party applications for their game, Path of Exile.
 - 📫 How to reach me: jdmh1995@gmail.com
 
